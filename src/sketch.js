@@ -92,7 +92,7 @@ function draw() {
 
     textSize(32)
     textStyle(BOLD);
-    fill(0,0,0)
+    fill(255,255,255)
     text(`Score:${score}`, width - 150, 50)
 
     }   
