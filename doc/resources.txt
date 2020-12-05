@@ -1,0 +1,7 @@
+List of resources used:
+
+https://p5js.org/reference/
+
+https://happycoding.io/tutorials/p5js/
+
+https://www.youtube.com/watch?v=KPRgdPwQQT0&list=PLLdsG7VOUdG8IpuNR1RyOBNR_aPj8DtB5&index=10
